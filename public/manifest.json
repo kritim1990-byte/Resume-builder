@@ -1,0 +1,17 @@
+{
+  "name": "LPU Resume Builder PWA",
+  "short_name": "LPU Resume",
+  "description": "Lightweight, privacy-first, offline-capable Resume Builder for LPU students and developers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
